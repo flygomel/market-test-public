@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/market-test-public/static/js/app.683fedbb.chunk.js",
+    "app.js.map": "/market-test-public/static/js/app.683fedbb.chunk.js.map",
+    "runtime~app.js": "/market-test-public/static/js/runtime~app.965a9887.js",
+    "runtime~app.js.map": "/market-test-public/static/js/runtime~app.965a9887.js.map",
+    "static/js/2.11f1adbc.chunk.js": "/market-test-public/static/js/2.11f1adbc.chunk.js",
+    "static/js/2.11f1adbc.chunk.js.map": "/market-test-public/static/js/2.11f1adbc.chunk.js.map",
+    "favicon-16.png": "/market-test-public/favicon-16.png",
+    "favicon-32.png": "/market-test-public/favicon-32.png",
+    "favicon.ico": "/market-test-public/favicon.ico",
+    "index.html": "/market-test-public/index.html",
+    "manifest.json": "/market-test-public/manifest.json",
+    "serve.json": "/market-test-public/serve.json",
+    "static/js/2.11f1adbc.chunk.js.LICENSE.txt": "/market-test-public/static/js/2.11f1adbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.965a9887.js",
+    "static/js/2.11f1adbc.chunk.js",
+    "static/js/app.683fedbb.chunk.js"
+  ]
+}
