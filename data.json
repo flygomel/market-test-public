@@ -3,31 +3,31 @@
 		{
 			"id": 1,
 			"url": "https://google.com",
-			"image": "https://flygomel.github.io/market-test-public/banners_top/1.jpg",
+			"image": "https://flygomel.github.io/market-test-public/banners_top/1.webp",
 			"blurhash": "LHP$s2v#M{M+}z0pxI$^?#^$XPR."
 		},
 		{
 			"id": 2,
 			"url": "https://google.com",
-			"image": "https://flygomel.github.io/market-test-public/banners_top/1.jpg",
+			"image": "https://flygomel.github.io/market-test-public/banners_top/1.webp",
 			"blurhash": "LHP$s2v#M{M+}z0pxI$^?#^$XPR."
 		},
 		{
 			"id": 3,
 			"url": "https://google.com",
-			"image": "https://flygomel.github.io/market-test-public/banners_top/1.jpg",
+			"image": "https://flygomel.github.io/market-test-public/banners_top/1.webp",
 			"blurhash": "LHP$s2v#M{M+}z0pxI$^?#^$XPR."
 		},
 		{
 			"id": 4,
 			"url": "https://google.com",
-			"image": "https://flygomel.github.io/market-test-public/banners_top/1.jpg",
+			"image": "https://flygomel.github.io/market-test-public/banners_top/1.webp",
 			"blurhash": "LHP$s2v#M{M+}z0pxI$^?#^$XPR."
 		},
 		{
 			"id": 5,
 			"url": "https://google.com",
-			"image": "https://flygomel.github.io/market-test-public/banners_top/1.jpg",
+			"image": "https://flygomel.github.io/market-test-public/banners_top/1.webp",
 			"blurhash": "LHP$s2v#M{M+}z0pxI$^?#^$XPR."
 		}
 	],
@@ -35,13 +35,13 @@
 		{
 			"id": 6,
 			"url": "https://google.com",
-			"image": "https://flygomel.github.io/market-test-public/banners_bottom/1.jpg",
+			"image": "https://flygomel.github.io/market-test-public/banners_bottom/1.webp",
 			"blurhash": "LNRMJ9hKJ6R4y?H?R5tl%3NFs:ay"
 		},
 		{
 			"id": 7,
 			"url": "https://google.com",
-			"image": "https://flygomel.github.io/market-test-public/banners_bottom/2.jpg",
+			"image": "https://flygomel.github.io/market-test-public/banners_bottom/2.webp",
 			"blurhash": "LNQ].zcXtmITV@R%bbae?^9YIT%M"
 		}
 	],
@@ -49,19 +49,19 @@
 		{
 			"id": 1,
 			"name": "Пледы для защитников",
-			"image": "https://flygomel.github.io/market-test-public/collections/1.jpg",
+			"image": "https://flygomel.github.io/market-test-public/collections/1.webp",
 			"blurhash": "TEECtQM{_4_44mRj-=ITIT-=xuMx"
 		},
 		{
 			"id": 2,
 			"name": "Пуфы-животные",
-			"image": "https://flygomel.github.io/market-test-public/collections/2.jpg",
+			"image": "https://flygomel.github.io/market-test-public/collections/2.webp",
 			"blurhash": "TOF~Kz%NoL~qt7Rj?cRjRjkXV?f6"
 		},
 		{
 			"id": 3,
 			"name": "Подушки",
-			"image": "https://flygomel.github.io/market-test-public/collections/3.jpg",
+			"image": "https://flygomel.github.io/market-test-public/collections/3.webp",
 			"blurhash": "T5ID~}m7GZy@D4EdyV%MRR|K564m"
 		}
 	],
@@ -69,25 +69,25 @@
 		{
 			"id": 1,
 			"name": "Кастрюли",
-			"image": "https://flygomel.github.io/market-test-public/products/1.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/1.webp",
 			"blurhash": "LnQT4LM{%Mj[t7j[j[kC~qt7M{fk"
 		},
 		{
 			"id": 2,
 			"name": "Подушка",
-			"image": "https://flygomel.github.io/market-test-public/products/2.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/2.webp",
 			"blurhash": "LUR3QLxu?cRkV?kCt8jY~qWBIUt6"
 		},
 		{
 			"id": 101,
 			"name": "Кастрюли",
-			"image": "https://flygomel.github.io/market-test-public/products/1.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/1.webp",
 			"blurhash": "LnQT4LM{%Mj[t7j[j[kC~qt7M{fk"
 		},
 		{
 			"id": 102,
 			"name": "Подушка",
-			"image": "https://flygomel.github.io/market-test-public/products/2.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/2.webp",
 			"blurhash": "LUR3QLxu?cRkV?kCt8jY~qWBIUt6"
 		}
 	],
@@ -98,7 +98,7 @@
 			"price": 799,
 			"old_price": 999,
 			"discount": 20,
-			"image": "https://flygomel.github.io/market-test-public/products/3.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/3.webp",
 			"blurhash": "L:PGpray~pofoffQfPj[-:j[IUay"
 		},
 		{
@@ -107,7 +107,7 @@
 			"price": 321,
 			"old_price": 409,
 			"discount": 22,
-			"image": "https://flygomel.github.io/market-test-public/products/4.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/4.webp",
 			"blurhash": "LqR3TWRj~q%Mt7j[WBayxuj[RPWB"
 		},
 		{
@@ -116,7 +116,7 @@
 			"price": 1672,
 			"old_price": 2099,
 			"discount": 20,
-			"image": "https://flygomel.github.io/market-test-public/products/5.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/5.webp",
 			"blurhash": "LfM@fV%MtmxuIVt7aft7~Wj[X8WU"
 		},
 		{
@@ -125,7 +125,7 @@
 			"price": 799,
 			"old_price": 999,
 			"discount": 20,
-			"image": "https://flygomel.github.io/market-test-public/products/6.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/6.webp",
 			"blurhash": "LaR:E8WB~qxuWBayozj[-;ofD%WB"
 		}
 	],
@@ -134,28 +134,28 @@
 			"id": 7,
 			"name": "Свеча в стакане с аромакамнями Сандаловое дерево-Роза 10,5 см",
 			"price": 799,
-			"image": "https://flygomel.github.io/market-test-public/products/7.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/7.webp",
 			"blurhash": "LJS$osWA_4%Mxuj[RkWC-=ogD$Ri"
 		},
 		{
 			"id": 8,
 			"name": "Форма Easy круглая рязъемная 22 x 7 см",
 			"price": 699,
-			"image": "https://flygomel.github.io/market-test-public/products/8.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/8.webp",
 			"blurhash": "LkQvwSj[~qofj[fQj[fR~qj[9Fay"
 		},
 		{
 			"id": 9,
 			"name": "Наполнитель для туалета Savanna Sands Без запаха 10 л комкующийся",
 			"price": 509,
-			"image": "https://flygomel.github.io/market-test-public/products/9.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/9.webp",
 			"blurhash": "L=S5qvbd*0s7oza#aej?ozayaKoe"
 		},
 		{
 			"id": 10,
 			"name": "КПБ Ночь Нежна 2 спальный поплин-жаккард Перья серый 70 х 70 с евро-простыней",
 			"price": 2799,
-			"image": "https://flygomel.github.io/market-test-public/products/10.jpg",
+			"image": "https://flygomel.github.io/market-test-public/products/10.webp",
 			"blurhash": "LBNK3c~q00?b9ERiD$WBMxM_MxRP"
 		}
 	]
